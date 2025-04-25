@@ -3,6 +3,6 @@ n8nio/n8n:nightly
 redis:latest
 xhofe/alist:latest
 mysql:lts-oraclelinux9
-bitnami/wordpress:latest
+wordpress:php8.4-apache
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
