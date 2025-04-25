@@ -2,5 +2,7 @@ nginx:stable-alpine3.21-perl
 n8nio/n8n:nightly
 redis:latest
 xhofe/alist:latest
+mysql:lts-oraclelinux9
+wordpress:php8.4-fpm-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
