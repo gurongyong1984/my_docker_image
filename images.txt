@@ -4,5 +4,6 @@ redis:latest
 xhofe/alist:latest
 mysql:lts-oraclelinux9
 wordpress:php8.4-apache
+bestzwei/libretv:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
