@@ -1,2 +1,1 @@
-n8n:nightly
-
+n8nio/n8n:nightly
