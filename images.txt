@@ -1,3 +1,2 @@
-neo4j:community
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+n8n:nightly
+
